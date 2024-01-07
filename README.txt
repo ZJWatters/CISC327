@@ -1,3 +1,5 @@
+Web Application for a simple Task Management system. 
+
 NOTE: This website requires Flask to run.
 If website is not opening:
 
